@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Management.Automation;
 
 namespace Blackboard_Test_Maker__from_HTML_
 {
